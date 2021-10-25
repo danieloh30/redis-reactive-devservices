@@ -1,4 +1,4 @@
-# redis-devservices Project
+# Redis Client with Quarkus Dev Services Project
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
