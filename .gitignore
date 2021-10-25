@@ -4,6 +4,7 @@ target
 .git
 .project
 .settings
+.classpath
 
 # Log file
 *.log
